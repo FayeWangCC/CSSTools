@@ -1,6 +1,6 @@
 ### reset.css
 
-重置浏览器的样式
+去除浏览器的样式
 
 [from meyerweb.com](https://meyerweb.com/)
 
